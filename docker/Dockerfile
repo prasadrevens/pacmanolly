@@ -1,4 +1,4 @@
-FROM node:prasadreven
+FROM node:boron
 
 MAINTAINER Ivan Font <ifont@redhat.com>
 

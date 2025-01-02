@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node .",
     "dev": "nodemon .",
-    "start-instrumented": "node -r @splunk/otel/instrument ."
+    "start": "node -r @splunk/otel/instrument ."
   },
   "license": "GPLv3",
   "dependencies": {
